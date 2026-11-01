@@ -1,0 +1,1 @@
+# Automatic-Detection-of-Damaged-or-Faded-Text-in-Old-Documents-Using-Image-Enhancement-Techniques
